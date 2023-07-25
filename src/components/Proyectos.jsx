@@ -19,7 +19,7 @@ const proyectos = [{
   github: "https://github.com/Sasdalorian/AllProyects/tree/master/Proyecto%204%20-%20Encriptador"
 }, {
   titulo: "DEPORTES JS",
-  ruta: "assets/img/deporteJS.png",
+  ruta: "assets/img/DeporteJS.png",
   descripcion: `Proyecto Grupal para <strong>Talento Digital</strong>, el proyecto consiste en crear un carrito de compra y una lista de productos, donde se podrá agregar la cantidad que uno desee, dentro del carrito de compra se vería el total a pagar, incluyendo el IVA, se podría eliminar productos, e incluir un 5% del valor cómo cargo adicional de envio mientras que el valor total sea menor a $100.000 IVA incluido.
   Al terminar la compra se genera una boleta con el detalle de los productos comprados y los totalizadores de compra.`,
   view: null,
