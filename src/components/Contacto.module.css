@@ -1,0 +1,23 @@
+
+.titulo {
+  text-align: center;
+}
+.formulario {
+  display: grid;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.formulario__nombres {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+@media (max-width: 520px) {
+  .formulario__nombres {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2rem;
+  }
+}
