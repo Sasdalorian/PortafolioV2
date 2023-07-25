@@ -5,36 +5,36 @@ import React, { useState } from 'react';
 
 const skills = [{
   nombre: "Html",
-  ruta: `src/assets/icons/html.svg`
+  ruta: `assets/icons/html.svg`
 }, {
   nombre: "Css",
-  ruta: `src/assets/icons/css.svg`
+  ruta: `assets/icons/css.svg`
 }, {
   nombre: "JavaScript",
-  ruta: `src/assets/icons/javascript.svg`
+  ruta: `assets/icons/javascript.svg`
 }, {
   nombre: "Node.js",
-  ruta: `src/assets/icons/node-js.svg`
+  ruta: `assets/icons/node-js.svg`
 }, {
   nombre: "MySQL",
-  ruta: `src/assets/icons/mysql.svg`
+  ruta: `assets/icons/mysql.svg`
 }, {
   nombre: "PostgreSQL",
-  ruta: `src/assets/icons/postgresql.svg`
+  ruta: `assets/icons/postgresql.svg`
 }, {
   nombre: "Git",
-  ruta: `src/assets/icons/git.svg`
+  ruta: `assets/icons/git.svg`
 }, {
   nombre: "Npm",
-  ruta: `src/assets/icons/npm.svg`
+  ruta: `assets/icons/npm.svg`
 }]
 
 const basicSkills = [{
   nombre: "React",
-  ruta: `src/assets/icons/react.svg`
+  ruta: `assets/icons/react.svg`
 }, {
   nombre: "nextjs",
-  ruta: `src/assets/icons/nextjs.svg`
+  ruta: `assets/icons/nextjs.svg`
 }]
 
 
