@@ -28,7 +28,7 @@ export function Navigation() {
         <div className={`container-fluid`}>
           <img src={logoSas} alt="Logo" className={`navbar-brand mb-0 h1 ${styles.logo}`} />
           <button className="navbar-toggler" type="button" onClick={toggleMenu}>
-            <span> <img src='src/assets/img/menusquared.png' height={"30rem"}></img></span>
+            <span> <img src='assets/img/menusquared.png' height={"30rem"}></img></span>
           </button>
           <div className={`collapse navbar-collapse ${isMenuOpen ? 'show' : ''}`} id="navbarSupportedContent">
             <ul className={`navbar-nav ${styles.navbar_ul} mb-2 mb-lg-0`}>
