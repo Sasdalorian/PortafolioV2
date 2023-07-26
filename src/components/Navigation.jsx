@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 const links = [
   { label: "Inicio", route: "inicio" },
   { label: "Sobre Mi", route: "sobremi" },
-  { label: "Skillset", route: "skillset" },
+  { label: "Skillset's", route: "skillset" },
   { label: "Proyectos", route: "proyectos" },
   { label: "Contacto", route: "contacto" },
 ];

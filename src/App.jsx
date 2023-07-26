@@ -1,5 +1,3 @@
-import './App.css';
-
 // COMPONENTS
 import { Bienvenida } from './components/Bienvenida';
 import { Navigation } from './components/Navigation';
@@ -11,10 +9,11 @@ import { Footer } from './components/Footer';
 
 //Style CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
 function App() {
   return (
-    <>
+    <div>
     <Navigation />
     <Bienvenida />
     <SobreMi />
@@ -22,7 +21,7 @@ function App() {
     <Proyectos />
     <Contacto title={"Contacto"}/>
     <Footer />
-    </>
+    </div>
   )
 }
 

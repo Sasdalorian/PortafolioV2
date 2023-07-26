@@ -53,7 +53,7 @@ export function SkillSet() {
     <div id="skillset">
       <div className={styles.bgSkillset}>
         <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ duration: 2 }}>
-          <h1 className={styles.titulo}>SKILLSET</h1>
+          <h1 className={styles.titulo}>SKILLSET'S</h1>
           <div className={styles.skillset}>
             {skills.map(({ nombre, ruta }) => (
               <div className={styles.imageContainer} onMouseEnter={() => entraMouse(nombre)} onMouseLeave={saleMouse} key={nombre}>

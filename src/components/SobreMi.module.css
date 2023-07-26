@@ -1,0 +1,35 @@
+
+.container {
+  display: flex;
+  margin: 1rem 10%;
+}
+.image {
+  border-radius: 10rem;
+  display: flex;
+  justify-content: center;
+}
+.parrafo {
+  margin: 1rem 10%;
+  display: flex;
+  align-items: center;
+}
+.pdf {
+  background-color: green;
+  color: white;
+  padding: .5rem;
+  border-radius: 1.5rem;
+  text-decoration: none;
+  padding: 1rem 3rem;
+}
+
+.containerPdfHobbies {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+.hobbies {
+  color: green;
+  font-size: 2rem;
+}
