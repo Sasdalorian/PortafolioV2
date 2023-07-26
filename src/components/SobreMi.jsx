@@ -8,7 +8,7 @@ export function SobreMi() {
         <h1 style={{textAlign: "center", marginTop: "2rem"}}>Acerca de mi</h1>
 
         <div className={styles.container}>
-          <div>
+          <div className={styles.img__container}>
             <img src="assets/img/Nico.webp" alt="Foto" height={300} width={300} className={styles.image}/>
           </div>
 
