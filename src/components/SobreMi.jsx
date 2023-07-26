@@ -7,8 +7,9 @@ export function SobreMi() {
         <h1 style={{textAlign: "center", marginTop: "2rem"}}>Acerca de mi</h1>
 
         <p style={{textAlign: "center"}}>
-          Me llamo Nicolás Sanhueza Díaz, también conocido como "Sas", una persona adaptable, 
-          responsable y atenta que está siempre dispuesta a aprender y crecer. 
+          ¡Hola! Mi nombre es Nicolás Sanhueza Díaz, aunque prefiero que me llamen Sas.
+          Soy de Valparaíso, Chile. De 25 años, siendo una persona adaptable, responsable y con muchas ganas de seguir
+          aprendiendo.
         </p>
       </div>
     </Element>
