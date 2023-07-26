@@ -33,3 +33,16 @@
   color: green;
   font-size: 2rem;
 }
+
+@media (max-width: 930px) {
+  .containerPdfHobbies {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
+
+@media (max-width: 720px) {
+ .container {
+  display: grid;
+ } 
+}
